@@ -39,7 +39,7 @@ The project demonstrates practical workflows commonly used in:
 ## Repository Structure
 
 ```bash
-eds213-database-lab
+eds-pokemon-project
 ├── LICENSE
 ├── README.md
 ├── data
