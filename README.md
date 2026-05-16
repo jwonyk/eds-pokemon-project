@@ -18,7 +18,7 @@ The project demonstrates a complete end-to-end data engineering and analytics wo
 
 ## Purpose of the Project
 
-The goal of this project is to build a reproducible local ETL and analytics pipeline using Pokémon data from the PokeAPI dataset.
+The goal of this project is to build a reproducible analytics pipeline using Pokémon data from the PokeAPI dataset.
 
 The project focuses on:
 - transforming raw CSV files into structured relational tables,
