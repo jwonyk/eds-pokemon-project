@@ -18,23 +18,11 @@ The project demonstrates a complete end-to-end data engineering and analytics wo
 
 ## Purpose of the Project
 
-The goal of this project is to build a reproducible analytics pipeline using Pokémon data from the PokeAPI dataset.
+The goal of this project is to build a reproducible analytics pipeline using Pokémon data from PokeAPI.
 
-The project focuses on:
-- transforming raw CSV files into structured relational tables,
-- validating database integrity,
-- storing cleaned data inside DuckDB,
-- and performing SQL-based analysis on Pokémon statistics and type performance.
-
-One of the main analytical questions explored in the project is:
+One of the main analytical questions explored is:
 
 > **Which Pokémon types have the highest average total base stats among non-legendary default Pokémon?**
-
-The project demonstrates practical workflows commonly used in:
-- data engineering,
-- analytics engineering,
-- relational database design,
-- and SQL analytics.
 
 ## Repository Structure
 
@@ -88,7 +76,7 @@ The original Pokémon data can be accessed through the official PokeAPI project:
 
 ## Workflow Overview
 
-The project following workflow:
+The project follows the workflow:
 
 1. Read raw Pokémon CSV files from the local `data/` directory
 2. Clean and standardize the datasets using pandas
