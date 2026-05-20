@@ -13,7 +13,7 @@ The project demonstrates a complete end-to-end data engineering and analytics wo
 - Analytical querying
 - Exporting analytical results
 
-### DuckDB Table Structure
+## DuckDB Table Structure
 ![Pokemon Tables](output/pokemon_tables.png)
 
 ## Purpose of the Project
